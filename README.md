@@ -19,6 +19,10 @@ Clean and prepare the Global Superstore dataset using Python and Pandas.
 ## Files Included
 - TASK 02 - Data Cleaning & Preparation.ipynb
 - Cleaned_Superstore.csv
+- ## Project Demo
+
+🎥 Video Walkthrough:
+https://drive.google.com/file/d/16UWpagxfl4TQYReIo3ldRFbqSVLW5272/view?usp=drivesdk
 
 ## Outcome
 Successfully transformed raw data into a clean and analysis-ready dataset.
