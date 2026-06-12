@@ -23,25 +23,25 @@ Clean and prepare the Global Superstore dataset using Python and Pandas.
 
 🎥 Video Walkthrough:
 https://drive.google.com/file/d/16UWpagxfl4TQYReIo3ldRFbqSVLW5272/view?usp=drivesdk
-
+<br><br><br>
 
 
 
 01. <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/66372830-eea6-451a-a5f6-6d6c5e65c314" />
 • Imported the Global Superstore dataset into Google Colab using Pandas and performed an initial inspection of the dataset structure, columns, and sample records.
-
+<br><br><br>
 
 
 
 02. <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/fac2ab4f-bd30-41ce-ad97-0dec565fe23c" />
 • Analyzed the dataset for missing values and duplicate records to ensure data quality and consistency before further processing.
-
+<br><br><br>
 
 
 
 03. <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/38e9e198-b57a-461d-9169-3c8df502ff61" />
 • Converted date-related columns into proper datetime format and verified the updated data types using DataFrame information.
-
+<br><br><br>
 
 
 
