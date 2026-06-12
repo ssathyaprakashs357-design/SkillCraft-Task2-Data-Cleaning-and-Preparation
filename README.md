@@ -25,7 +25,7 @@ Clean and prepare the Global Superstore dataset using Python and Pandas.
 https://drive.google.com/file/d/16UWpagxfl4TQYReIo3ldRFbqSVLW5272/view?usp=drivesdk
 
 
-01 <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/66372830-eea6-451a-a5f6-6d6c5e65c314" />
+01. <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/66372830-eea6-451a-a5f6-6d6c5e65c314" />
 • Imported the Global Superstore dataset into Google Colab using Pandas and performed an initial inspection of the dataset structure, columns, and sample records.
 
 
